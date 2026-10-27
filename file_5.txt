@@ -1,0 +1,4 @@
+npm run build          # React/Vue/Next
+mvn package            # Java
+dotnet build           # .NET
+composer dump-autoload # PHP

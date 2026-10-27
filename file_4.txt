@@ -1,0 +1,4 @@
+node -v
+python --version
+java -version
+php -v

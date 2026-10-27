@@ -1,0 +1,6 @@
+npm start / npm run dev
+python main.py / python app.py
+php artisan serve
+dotnet run
+mvn spring-boot:run
+docker-compose up

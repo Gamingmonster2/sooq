@@ -1,0 +1,2 @@
+# ابحث عن ملفات مثال
+find . -name "*.example" -o -name "*.sample" -o -name "*.template"

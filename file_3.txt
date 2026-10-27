@@ -1,0 +1,5 @@
+# أمثلة
+php artisan migrate          # Laravel
+python manage.py migrate     # Django
+npx prisma migrate deploy    # Prisma
+dotnet ef database update    # .NET

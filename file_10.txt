@@ -1,0 +1,1 @@
+ls -la && echo "---" && cat README.md 2>/dev/null | head -50

@@ -1,0 +1,18 @@
+# 1. ادخل المشروع
+cd LABS
+
+# 2. اقرأ التعليمات أولاً
+cat README.md
+ls -la
+
+# 3. ابحث عن ملفات الإعداد الناقصة
+find . -name "*.example" -o -name "*.sample" -o -name ".env*"
+
+# 4. ابحث عن ملفات الإعداد المطلوبة
+ls -la | grep -E "\.env|config|settings"
+
+# 5. ثبّت الاعتماديات حسب التقنية
+# (npm install / pip install -r requirements.txt / composer install ...)
+
+# 6. شغّل المشروع
+# (npm start / python main.py / php artisan serve ...)
